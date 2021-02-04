@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 
+<p align="center">
+<img src="https://github.com/christine1729/christine1729/blob/main/number1.gif" width="500px">
+</p>
 
 <!--
 **christine1729/christine1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
