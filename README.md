@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=christine1729&theme=prussian&show_icons=true&count_private=true">
 </p>
+-->
